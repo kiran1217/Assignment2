@@ -1,0 +1,5 @@
+trigger isContact on Account (after update) {
+   
+    isContact.isWeb();
+    
+}
