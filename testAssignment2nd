@@ -1,0 +1,8 @@
+@isTest
+public class isContactTest {
+
+    @isTest(SeeAllData=True)
+    static void isContactTest(){
+        isContact.isWeb();
+    }
+}
